@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class Main{
 
     public static void main(String[] args) {
+        // Update
         Scanner myscanner= new Scanner(System.in);
         System.out.println("Enter a hexadecimal number:");
         String input = myscanner.next();
